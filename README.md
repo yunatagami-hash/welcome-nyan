@@ -17,7 +17,7 @@ PythonのTkinterを使用して制作した、猫とのコミュニケーショ�
 
 ## Screenshot
 
-![ゲーム画面](2026-11-21%20194809.png)
+![ゲーム画面](welnyan1.png)
 
 ## Technology
 - Python
